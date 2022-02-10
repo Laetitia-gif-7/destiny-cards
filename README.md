@@ -34,3 +34,4 @@ You can install it with the command with defaut MySQL like this(login/pwd are ju
 ... or with default MariaDB settings, like this :
 
 ```sudo mysql < db/init.sql```
+# destiny-cards
