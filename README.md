@@ -35,3 +35,4 @@ You can install it with the command with defaut MySQL like this(login/pwd are ju
 
 ```sudo mysql < db/init.sql```
 # destiny-cards
+# destiny-cards
